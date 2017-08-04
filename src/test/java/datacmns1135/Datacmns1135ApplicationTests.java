@@ -16,7 +16,7 @@ import static org.hamcrest.CoreMatchers.instanceOf;
 
 @RunWith(SpringRunner.class)
 @DataMongoTest
-public class Datamongo1763ApplicationTests {
+public class Datacmns1135ApplicationTests {
 
 	@Autowired
 	MainDocumentRepository repository;
